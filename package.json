@@ -2,6 +2,7 @@
 	"author": "Samuel-Sotomayor",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This course of Backend look interesting",
+	"license": "MIT",
 	"keywords":["npm", "node", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
