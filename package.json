@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "This course of Backend look interesting",
 	"license": "MIT",
+	"version": "1.0.0",
 	"keywords":["npm", "node", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
